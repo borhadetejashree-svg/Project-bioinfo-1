@@ -14,3 +14,5 @@ Analyze DNA sequences using Python.
 
 ## Author 
 Tejashree  Borhade
+
+This project analyzes DNA sequences using Python.
